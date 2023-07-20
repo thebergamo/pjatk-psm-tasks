@@ -13,6 +13,7 @@ It is implemented using the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [mathjs](https://mathjs.org/std)
+- [Algebrite](https://github.com/davidedc/Algebrite)
 - [stdlib/random-base-uniform](https://github.com/stdlib-js/random-base-uniform)
 - [Recharts](https://recharts.org/en-US/)
 - [Pixi](https://pixijs.com/)
@@ -55,4 +56,4 @@ pnpm run format
 
 ## Deployment
 
-The deployment is done using [Vercel]() due to it's easy integration with Github and Next.js and more specially it's free tier <3
+The deployment is done using [Vercel](https://vercel.com) due to it's easy integration with Github and Next.js and more specially it's free tier <3
